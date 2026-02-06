@@ -1,0 +1,9 @@
+.bubble-text {
+    font-size: 16px;
+    font-family: Source Han Sans CN-Regular, Source Han Sans CN;
+    font-weight: 400;
+    color: #FFFFFF;
+    fill: #FFFFFF;
+    dominant-baseline: middle;
+    text-anchor: middle;
+}
